@@ -19,6 +19,7 @@ export PATH="/Users/keihamamatsu/Develop/Kibana/kibana-9.2.1/bin:$PATH"
 # alias設定
 alias ll="ls -la"
 
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
