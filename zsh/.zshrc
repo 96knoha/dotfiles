@@ -9,6 +9,7 @@ export PATH="/opt/homebrew/opt/openjdk@21/bin:$PATH"
 export PATH="/Users/keihamamatsu/Develop/Elastic/elasticsearch-9.2.1/bin:$PATH"
 # Kibana
 export PATH="/Users/keihamamatsu/Develop/Kibana/kibana-9.2.1/bin:$PATH"
+export PATH="/opt/homebrew/opt/curl/bin:$PATH"
 
 # ----------------------------
 # User settings

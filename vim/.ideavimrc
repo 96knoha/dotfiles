@@ -13,3 +13,5 @@ set hlsearch
 set clipboard=unnamedplus
 
 nnoremap U <C-r>
+
+set ideavim_visual_star
