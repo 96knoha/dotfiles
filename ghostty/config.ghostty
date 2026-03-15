@@ -1,7 +1,7 @@
 # =========================
 # Appearance
 # =========================
-font-size = 18
+font-size = 14
 theme = Tomorrow Night
 palette = 8=#626880
 cursor-style = block
