@@ -14,4 +14,14 @@ set clipboard=unnamedplus
 
 nnoremap U <C-r>
 
-set ideavim_visual_star
+" IdeaVim
+nnoremap <Space><Space>x :action IdeaVim.ReloadVimRc.reload<CR>
+
+" Code
+nnoremap <Space>cf :action ReformatCode<CR>
+
+" File search
+nnoremap <Space>fs :action ShowSettings<CR>
+nnoremap <Space>fa :action SearchEverywhere<CR>
+nnoremap <Space>fd :action GotoFile<CR>
+nnoremap <Space>fb :action RecentFiles<CR>
