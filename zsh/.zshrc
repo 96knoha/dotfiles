@@ -22,6 +22,9 @@ alias ll="ls -la"
 
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
 
+#### starship
+eval "$(starship init zsh)"
+
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
